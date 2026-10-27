@@ -3,3 +3,11 @@
 3. cd - Dizinler arasında geçiş yapmayı sağlar.
 4. mkdir - Yeni bir klasör oluşturur.
 5. touch - Yeni ve boş bir dosya oluşturur.
+
+Hafta 2 - Git Komutlari
+
+1. git init - Yeni bir Git deposu oluşturur.
+2. git status - Dosyaların durumunu gösterir.
+3. git add - Dosyaları staging alanına ekler.
+4. git commit - Değişiklikleri kaydeder.
+5. git log - Commit geçmişini gösterir.
