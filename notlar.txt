@@ -1,0 +1,5 @@
+1. ls - Dosya ve klasörleri listeler.
+2. pwd - Bulunulan dizinin yolunu gösterir.
+3. cd - Dizinler arasında geçiş yapmayı sağlar.
+4. mkdir - Yeni bir klasör oluşturur.
+5. touch - Yeni ve boş bir dosya oluşturur.
